@@ -4,7 +4,7 @@ I'm Abatov Olloshukur (Alex)  a software enginner with strong front-end skills.
 
 📧: Contact!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oybek-toshmatov-974846175/) [![Mail Badge](https://img.shields.io/badge/-gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:a.aliksant315@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ abatov-80b6b2303) [![Mail Badge](https://img.shields.io/badge/-gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:a.aliksant315@gmail.com)
 
 
 -  I’m currently working on personal projects
